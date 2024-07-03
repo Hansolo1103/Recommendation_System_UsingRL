@@ -6,7 +6,7 @@ A few years ago, Netflix organized a challenge “Netflix Prize”, where they i
 
 ***Deep Reinforcement Learning based Recommender System in Tensorflow***
 
-The implemetation of Deep Reinforcement Learning based Recommender System from the paper [ Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling by Liu et al]((https://arxiv.org/abs/1810.12027)). Build recommender system with [DDPG]((https://arxiv.org/abs/1509.02971)) algorithm. Add state representation module to produce trainable state for RL algorithm from data. This is not the official implementation of the paper.
+The implemetation of Deep Reinforcement Learning based Recommender System from the paper [ Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling by Liu et al]([URL](https://arxiv.org/abs/1810.12027)). Build recommender system with [DDPG]([url](https://arxiv.org/abs/1509.02971)) algorithm. Add state representation module to produce trainable state for RL algorithm from data. This is not the official implementation of the paper.
 
 ***Procedure***
 
