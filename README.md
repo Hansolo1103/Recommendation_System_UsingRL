@@ -1,8 +1,8 @@
-**In industries like e-commerce, retail, news-group or music apps, recommendation system models are one of the most important aspects in customer retention. Presenting to the users what might interest them most is crucial. Also, identifying the most attractive content, and getting customers hooked to specific contents could result in significant revenues to the company.
+In industries like e-commerce, retail, news-group or music apps, recommendation system models are one of the most important aspects in customer retention. Presenting to the users what might interest them most is crucial. Also, identifying the most attractive content, and getting customers hooked to specific contents could result in significant revenues to the company.
 
 Based on various data entities, including user details, interests, trending content, etc. models are built to recommend the most relevant content to customers. Companies like Spotify, Netflix, HBO use sophisticated recommendation systems for video and song recommendations. Targeted marketing is a segment of recommendation systems.
 
-A few years ago, Netflix organized a challenge “Netflix Prize”, where they invited people to build a better recommender system than what they had in return for prize money.**
+A few years ago, Netflix organized a challenge “Netflix Prize”, where they invited people to build a better recommender system than what they had in return for prize money.
 
 ***Deep Reinforcement Learning based Recommender System in Tensorflow***
 
